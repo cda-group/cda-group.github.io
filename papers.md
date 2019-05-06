@@ -5,9 +5,12 @@ title: Publications
 
 PhD Dissertations
 ------
-* Paris Carbone - [Scalable and Reliable Data Stream Processing](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-233527) (Sept 2018)
 
-* Salman Niazi - [Scaling Distributed Hierarchical File Systems Using NewSQL Databases](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-238605) (Dec 2018)
+* Theodore Vasiloudis - [Scalable Machine Learning through Approximation and Distributed Computing](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1307122&dswid=-5231) (2019) 
+
+* Paris Carbone - [Scalable and Reliable Data Stream Processing](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-233527) (2018)
+
+* Salman Niazi - [Scaling Distributed Hierarchical File Systems Using NewSQL Databases](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-238605) (2018)
 
 MSc Theses
 ------
@@ -22,6 +25,8 @@ MSc Theses
 Conferences, Journals and Workshops
 ------
 
+* Lars Kroll, Klas Segeljakt, Paris Carbone, Christian Schulte, Seif Haridi - Arc: An IR for Batch and Stream Programming - DBPL @ PLDI 2019 ([preprint](papers/Arc_DBPL_2019.pdf))
+
 *  Salman Niazi, Mikael Ronström. Seif Haridi, Jim Dowling - Size Matters: Improving the Performance of Small Files in Hadoop - ACM Middleware 2018
 
 * Z Abbas, V Kalavri, P Carbone, V Vlassov - Streaming graph partitioning: an experimental study - VLDB 2018
@@ -30,11 +35,11 @@ Conferences, Journals and Workshops
 
 * Sherif Sakr, Tilmann Rabl, Martin Hirzel , Paris Carbone, Martin Strohbach - Dagstuh Seminar on Big Stream Processing SIGMOD Record 2018
 
-
-
 * Lars Kroll, Paris Carbone, Seif Haridi - Kompics Scala: narrowing the gap between algorithmic specification and executable code (ACM SIGPLAN Symposium on Scala 2017)
 
 * Carbone, P., Ewen, S., Fóra, G., Haridi, S., Richter, S., & Tzoumas, K. - State management in Apache Flink®: consistent stateful distributed stream processing. Proceedings of the VLDB Endowment (2017)
+
+* Lars Kroll, Jim Dowling, Seif Haridi - Static Type Checking for the Kompics Component Model: Kola -- The Kompics Language - PMLDC @ ECOOP 2016
 
 * Carbone, P., Katsifodimos, A., Ewen, S., Markl, V., Haridi, S., & Tzoumas, K. . - Apache flink: Stream and batch processing in a single engine. Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, (2015)
 
