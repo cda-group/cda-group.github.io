@@ -12,6 +12,11 @@ PhD Dissertations
 
 * Salman Niazi - [Scaling Distributed Hierarchical File Systems Using NewSQL Databases](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-238605) (2018)
 
+Posters
+------
+
+* Paris Carbone, Lars Kroll, Klas Segeljakt, Max Meldrum, Adam Hasselberg, Christian Schulte, Seif Haridi - [Continuous Deep Analytics (CDA)](papers/poster_2019.pdf)
+
 MSc Theses
 ------
 * Klas Segeljakt - [A Scala DSL for Rust code generation](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-235358)
@@ -24,6 +29,8 @@ MSc Theses
 
 Conferences, Journals and Workshops
 ------
+
+* Max Meldrum, Klas Segeljakt, Lars Kroll, Paris Carbone, Christian Schulte, Seif Haridi - Arcon: Continuous and Deep Data Stream Analytics - BIRTE @ VLDB 2019 ([preprint](papers/Arcon_BIRTE_2019.pdf))
 
 * Lars Kroll, Klas Segeljakt, Paris Carbone, Christian Schulte, Seif Haridi - Arc: An IR for Batch and Stream Programming - DBPL @ PLDI 2019 ([preprint](papers/Arc_DBPL_2019.pdf))
 
