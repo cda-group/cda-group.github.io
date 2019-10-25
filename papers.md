@@ -54,13 +54,19 @@ Conferences, Journals and Workshops
 Talks and Events
 ------
 
-* Paris Carbone - [Stream Loops on Flink: Reinventing the wheel for the streaming era](https://www.ververica.com/flink-forward-berlin/resources/stream-loops-on-flink-reinventing-the-wheel-for-the-streaming-era) -   Flink Forward Berlin (November 2018)
+* Paris Carbone - NDSML [Continuous Intelligence - Intersecting Event-Based Business Logic and ML](https://www.slideshare.net/ParisCarbone/continuous-intelligence-intersecting-eventbased-business-logic-and-ml) (Oct. 2019)
+
+* Paris Carbone - CASTOR Software Days [Continuous Intelligence through Computation Sharing](https://castor-software-days-2019.github.io/carbone) (Oct. 2019)
+
+* Klas Segeljakt, Max Meldrum - Flink Forward - [Introducing Arc: An IR for unified batch and streaming](https://www.youtube.com/watch?v=RN9WQfz8ljA) (Oct. 2019)
+
+* Paris Carbone - [Stream Loops on Flink](https://www.ververica.com/flink-forward-berlin/resources/stream-loops-on-flink-reinventing-the-wheel-for-the-streaming-era) -   Flink Forward Berlin (Nov. 2018)
 
 * [Workshop in Distributed Computing & Analytics](https://discan18.github.io) (Sep. 2018)
 
 * Paris Carbone - [Asynchronous Epoch Commits for Fast and Consistent Stateful Streaming with Apache Flink](http://ladisworkshop.org/node/10) . LADIS/PODC (July 2018).
 
-* Paris Carbone - [The Road to Continuous Deep Analytics](https://youtu.be/ZIcSGGdGQIY) - RISE Open House (April 2018)
+* Paris Carbone - [The Road to Continuous Deep Analytics](https://youtu.be/ZIcSGGdGQIY) - RISE Open House (Apr. 2018)
 
 
 
