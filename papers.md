@@ -45,7 +45,7 @@ Conferences, Journals and Workshops
 
 * Lars Kroll, Klas Segeljakt, Paris Carbone, Christian Schulte, Seif Haridi - Arc: An IR for Batch and Stream Programming - DBPL @ PLDI 2019 ([preprint](papers/Arc_DBPL_2019.pdf))
 
-* Theodore Vasiloudis, Gianmarco De Francisci Morales, and Henrik Boström. - Quantifying Uncertainty in Online Regression Forests. - Journal of Machine Learning Research 2019 ([preprint](papers/SIGIR-BestPaper-block-dist-trees.pdf))
+* Theodore Vasiloudis, Gianmarco De Francisci Morales, and Henrik Boström. - Quantifying Uncertainty in Online Regression Forests. - Journal of Machine Learning Research 2019 ([preprint](papers/JMLR-uncertain-trees.pdf))
 
 * Theodore Vasiloudis, Hyunsu Cho, Henrik Boström - Block-distributed Gradient Boosted Trees - ACM SIGIR 2019 (**Best Short Paper Award**) ([preprint](papers/SIGIR-BestPaper-block-dist-trees.pdf))
 
