@@ -6,6 +6,8 @@ title: Publications
 PhD Dissertations
 ------
 
+* Lars Kroll - [Compile-time Safety and Runtime Performance in Programming Frameworks for Distributed Systems](http://www.diva-portal.org/smash/get/diva2:1392215/FULLTEXT02.pdf) (2020) 
+
 * Theodore Vasiloudis - [Scalable Machine Learning through Approximation and Distributed Computing](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1307122&dswid=-5231) (2019) 
 
 * Paris Carbone - [Scalable and Reliable Data Stream Processing](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-233527) (2018)
@@ -13,12 +15,19 @@ PhD Dissertations
 * Salman Niazi - [Scaling Distributed Hierarchical File Systems Using NewSQL Databases](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-238605) (2018)
 
 Posters
-------
+------	
 
 * Paris Carbone, Lars Kroll, Klas Segeljakt, Max Meldrum, Adam Hasselberg, Christian Schulte, Seif Haridi - [Continuous Deep Analytics (CDA)](papers/poster_2019.pdf)
 
+* Klas Segeljakt, Frej Drejhammar - [Using MLIR to implement a compiler for Arc, a language for Batch and Stream Programming](https://llvm.org/devmtg/2020-04/talks.html#Poster_39)
+
 MSc Theses
 ------
+
+* Massimo Perini - [Dynamic Graph Embedding on Event Streams with Apache Flink](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-269175)
+
+* Max Meldrum - [Hardware Utilisation Techniques for Data Stream Processing](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-269526)
+
 * Klas Segeljakt - [A Scala DSL for Rust code generation](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-235358)
 
 * Oscar Bjuhr - [Relocatable Driver and Code Generator for Continuous Deep Analytics](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-232079)
@@ -29,6 +38,8 @@ MSc Theses
 
 Conferences, Journals and Workshops
 ------
+
+* P Carbone, M Fragkoulis, V Kalavri, A Katsifodimos - Beyond Analytics: the Evolution of Stream Processing Systems - ACM SIGMOD 2020 ([draft](papers/SIGMOD-streams.pdf))
 
 * Max Meldrum, Klas Segeljakt, Lars Kroll, Paris Carbone, Christian Schulte, Seif Haridi - Arcon: Continuous and Deep Data Stream Analytics - BIRTE @ VLDB 2019 ([preprint](papers/Arcon_BIRTE_2019.pdf))
 
@@ -58,21 +69,37 @@ Conferences, Journals and Workshops
 Talks and Events
 ------
 
+* Frej Drejhammar - Euro-LLVM [Extending Clang and LLVM for Interpreter Profiling Perf-ection](https://llvm.org/devmtg/2020-04/talks.html#LightningTalk_36) (Apr. 2020)
+
+* Klas Segeljakt - Euro-LLVM [Experiences using LLVM to implement a custom language](https://plds.github.io/programme.html) (Apr. 2020)
+
+* Klas Segeljakt - PLDS [Arc: An MLIR dialect for Data Analytics](https://plds.github.io/programme.html) (Mar. 2020)
+
+* Paris Carbone - PLDS [Seamless Batch and Stream Computation on Heterogeneous Hardware with Arcon](https://plds.github.io/programme.html) (Mar. 2020)
+
+* Paris Carbone - Chaos Engineering Workshop [Reliable Stream Processing at Scale with Apache Flink ](https://www.chaos.conf.kth.se) (Dec. 2019)
+
 * Paris Carbone - NDSML [Continuous Intelligence - Intersecting Event-Based Business Logic and ML](https://www.slideshare.net/ParisCarbone/continuous-intelligence-intersecting-eventbased-business-logic-and-ml) (Oct. 2019)
 
 * Paris Carbone - CASTOR Software Days [Continuous Intelligence through Computation Sharing](https://castor-software-days-2019.github.io/carbone) (Oct. 2019)
+
+* Massimo Perini - Flink Forward - [Deep Stream Dynamic Graph Analytics with Grapharis](https://europe-2019.flink-forward.org/conference-program#deep-stream-dynamic-graph-analytics-with-grapharis)
 
 * Klas Segeljakt, Max Meldrum - Flink Forward - [Introducing Arc: An IR for unified batch and streaming](https://www.youtube.com/watch?v=RN9WQfz8ljA) (Oct. 2019)
 
 * Paris Carbone - [Stream Loops on Flink](https://www.ververica.com/flink-forward-berlin/resources/stream-loops-on-flink-reinventing-the-wheel-for-the-streaming-era) -   Flink Forward Berlin (Nov. 2018)
 
-* [Workshop in Distributed Computing & Analytics](https://discan18.github.io) (Sep. 2018)
 
 * Paris Carbone - [Asynchronous Epoch Commits for Fast and Consistent Stateful Streaming with Apache Flink](http://ladisworkshop.org/node/10) . LADIS/PODC (July 2018).
 
 * Paris Carbone - [The Road to Continuous Deep Analytics](https://youtu.be/ZIcSGGdGQIY) - RISE Open House (Apr. 2018)
 
+Workshops
+------
 
+* [Workshop in Programming Languages and Distributed Systems](https://plds.github.io/index.html) (Mar. 2020)
+
+* [Workshop in Distributed Computing & Analytics](https://discan18.github.io) (Sep. 2018)
 
 
 	
