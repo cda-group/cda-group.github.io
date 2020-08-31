@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Publications
+title: Research
 ---
+
+Project Reports
+------
+* [Midterm Project Report](papers/CDA-Midterm-Final.pdf) (2020) 
 
 PhD Dissertations
 ------
@@ -41,6 +45,16 @@ Conferences, Journals and Workshops
 
 * P Carbone, M Fragkoulis, V Kalavri, A Katsifodimos - Beyond Analytics: the Evolution of Stream Processing Systems - ACM SIGMOD 2020 ([draft](papers/SIGMOD-streams.pdf))
 
+* H Boström, U Johansson – Mondrian Conformal Regressors - COPA 2020
+
+* L Karlsson, H Boström, P Zieger – Classification of Aerosol Particles using Inductive Conformal Prediction - COPA (2020)
+
+* H Werner, L Carlsson, E Ahlberg, H Boström – Evaluating Different Approaches to Calibrating Conformal Predictive Systems - COPA 2020
+
+* H Bostroöm, P Höglund, S-O Junker, A-S Oberg, M Sparr – Explaining Multivariate Time Series Forecasts: an Application to Predicting the Swedish GDP, XI-ML (2020)
+
+* T Vasiloudis, H Cho, H Boström – Block-distributed Gradient Boosted Trees, Workshop on Systems for ML at NeurIPS (2019)
+
 * Max Meldrum, Klas Segeljakt, Lars Kroll, Paris Carbone, Christian Schulte, Seif Haridi - Arcon: Continuous and Deep Data Stream Analytics - BIRTE @ VLDB 2019 ([preprint](papers/Arcon_BIRTE_2019.pdf))
 
 * Lars Kroll, Klas Segeljakt, Paris Carbone, Christian Schulte, Seif Haridi - Arc: An IR for Batch and Stream Programming - DBPL @ PLDI 2019 ([preprint](papers/Arc_DBPL_2019.pdf))
@@ -61,17 +75,28 @@ Conferences, Journals and Workshops
 
 * Carbone, P., Ewen, S., Fóra, G., Haridi, S., Richter, S., & Tzoumas, K. - State management in Apache Flink®: consistent stateful distributed stream processing. Proceedings of the VLDB Endowment (2017)
 
+* Muhammad Anis Uddin Nasir, Aristides Gionis, Gianmarco De Francisci Morales, Sarunas Girdzijauskas – Fully Dynamic Algorithm for Top-k Densest Subgraphs - CIKM 2017
+
+* Kambiz Ghoorchian, Sarunas Girdzijauskas, Fatemeh Rahimian – DeGPar: Large Scale Topic - Detection Using Node-Cut Partitioning on Dense Weighted Graphs. - ICDCS 2017
+
 * Lars Kroll, Jim Dowling, Seif Haridi - Static Type Checking for the Kompics Component Model: Kola -- The Kompics Language - PMLDC @ ECOOP 2016
 
 * Carbone, P., Katsifodimos, A., Ewen, S., Markl, V., Haridi, S., & Tzoumas, K. . - Apache flink: Stream and batch processing in a single engine. Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, (2015)
 
+Technical Reports, Surveys
+------
+M Fragkoulis, P Carbone, V Kalavri, A Katsifodimos – A Survey on the Evolution of Stream Pro- cessing Systems, arXiv preprint (2020)
 
 Talks and Events
 ------
 
+* Sruthi Kumar & Hasseb Asif – [FlinkNDB: Skyrocketing Stateful Capabilities of Apache Flink](https://www.flink-forward.org/global-2020/conference-program#flinkndb---skyrocketing-stateful-capabilities-of-apache-flink), Flink Forward Global Event (Oct. 2020)
+
+* Sruthi Kumar & Hasseb Asif – [NEXMark-Beam: Your best companion for testing and benchmarking new core stream processing libraries](https://2020.beamsummit.org/sessions/nexmark-beam-flinkndb/), Beam Summit (Aug. 2020)
+
 * Frej Drejhammar - Euro-LLVM [Extending Clang and LLVM for Interpreter Profiling Perf-ection](https://llvm.org/devmtg/2020-04/talks.html#LightningTalk_36) (Apr. 2020)
 
-* Klas Segeljakt - Euro-LLVM [Experiences using LLVM to implement a custom language](https://plds.github.io/programme.html) (Apr. 2020)
+* Klas Segeljakt - Euro-LLVM Experiences using LLVM to implement a custom language (Apr. 2020)
 
 * Klas Segeljakt - PLDS [Arc: An MLIR dialect for Data Analytics](https://plds.github.io/programme.html) (Mar. 2020)
 

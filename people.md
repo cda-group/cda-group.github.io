@@ -4,19 +4,19 @@ title: The Team
 ---
 
 
-Professors
+Management Team
 -------- 
 
-|:-------------:|:-------------:|
-| <img src="/assets/images/people/seif.jpg" width="150px">| <img src="/assets/images/people/henrik.jpg" width="150px"> |
-| Seif Haridi | Henrik Boström |
+|:-------------:|:-------------:|:-------------:|
+| <img src="/assets/images/people/seif.jpg" width="150px">| <img src="/assets/images/people/henrik.jpg" width="150px"> | <img src="/assets/images/people/paris.jpg" width="150px">|
+| Seif Haridi | Henrik Boström | Paris Carbone
 
 Senior Researchers
 --------
 
 |:-------------:|:-------------:|:-------------:|
-| <img src="/assets/images/people/paris.jpg" width="150px">| <img src="/assets/images/people/lars.jpg" width="150px"> | <img src="/assets/images/people/frej.jpg" width="150px"> | <img src="/assets/images/people/daniel.jpg" width="150px"> |
-| Paris Carbone |  Lars Kroll   | Frej Drejhammar  |  Daniel Gillblad |
+| <img src="/assets/images/people/lars.jpg" width="150px"> | <img src="/assets/images/people/frej.jpg" width="150px"> | <img src="/assets/images/people/daniel.jpg" width="150px"> | 
+|  Lars Kroll   | Frej Drejhammar  |  Daniel Gillblad |
 
 PhD Students
 --------
