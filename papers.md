@@ -83,9 +83,9 @@ Conferences, Journals and Workshops
 
 * Carbone, P., Katsifodimos, A., Ewen, S., Markl, V., Haridi, S., & Tzoumas, K. . - Apache flink: Stream and batch processing in a single engine. Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, (2015)
 
-Technical Reports, Surveys
+Technical Reports and Surveys
 ------
-M Fragkoulis, P Carbone, V Kalavri, A Katsifodimos – A Survey on the Evolution of Stream Pro- cessing Systems, arXiv preprint (2020)
+M Fragkoulis, P Carbone, V Kalavri, A Katsifodimos – A Survey on the Evolution of Stream Processing Systems, [arXiv preprint](https://arxiv.org/pdf/2008.00842.pdf) (2020)
 
 Talks and Events
 ------
