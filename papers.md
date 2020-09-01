@@ -85,6 +85,9 @@ Conferences, Journals and Workshops
 
 Technical Reports and Surveys
 ------
+
+S Haridi, L Kroll, P Carbone - Lecture Notes on Leader-based Sequence Paxos -- An Understandable Sequence Consensus Algorithm [arXiv preprint](https://arxiv.org/abs/2008.13456) (2020)
+
 M Fragkoulis, P Carbone, V Kalavri, A Katsifodimos – A Survey on the Evolution of Stream Processing Systems, [arXiv preprint](https://arxiv.org/pdf/2008.00842.pdf) (2020)
 
 Talks and Events
