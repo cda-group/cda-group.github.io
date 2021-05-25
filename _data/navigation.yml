@@ -5,6 +5,8 @@ header:
       url: /papers.html
     # - title: Blog
     #   url: /404.html
+    - title: Projects
+      url: /projects.html
     - title: People
       url: /people.html
 
