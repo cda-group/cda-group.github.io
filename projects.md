@@ -6,7 +6,19 @@ title: Projects
 
 # Arc-script
 
-TODO
+### Highlights
+
+[Arc-Script](https://github.com/cda-group/arc/arc-script) is a high-level programming language for continuous and deep analytics.
+[Arc-MLIR](https://github.com/cda-group/arc/arc-mlir) is an optimizable intermediate representation which Arc-Script compiles to.
+
+### Why use Arc-Script?
+
+* Arc-Script is **fun** to write code in, easy to learn and is designed for great readability.
+* Arc-Script is **integrated** with IDEs through the language server protocol and web-editors through WebAssembly.
+* Arc-Script is **productive**. Developers can write and reuse Arc-Script modules for different applications with overlapping requirements.
+* Arc-script is **extensible** by allowing integration with external Rust libraries.
+* Arc-Script is **real-time** by being able to express arbitrary streaming computation through asynchronous functions.
+* Arc-Script is **fast** by being compiled to native Rust and optimized by [MLIR](http://mlir.llvm.org) to execute on the Arcon runtime.
 
 ### Lead Developer
 
