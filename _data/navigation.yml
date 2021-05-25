@@ -1,10 +1,12 @@
 header:
-    - title: Code
-      url: /404.html
-    - title: Publications
+    # - title: Code
+    #   url: /404.html
+    - title: Research
       url: /papers.html
-    - title: Blog
-      url: /404.html
+    # - title: Blog
+    #   url: /404.html
+    - title: Projects
+      url: /projects.html
     - title: People
       url: /people.html
 
