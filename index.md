@@ -24,8 +24,8 @@ hardware-accelerated machine learning and distributed stream processing.
 Architecture
 ==========
 
-The *CDA* project is currently composed out of 1) *Arc-Script*: A programming language and model for batch and stream computation (including python bindings),
-2) Arc-MLIR a compiler and Intermediate Representation (*IR*) for high-performance code generation of dataflow pipelines and ad-hoc queries, 3) *Arcon*: A distributed execution runtime for Arc programs, powered by 4) Kompact: a component- and actor-based middleware for programming performance-critical  systems, written entirely in *Rust*.
+
+The *CDA* project is currently composed out of 1) *Arc*: an Intermediate Representation (*IR*) for batch and stream data computation, 2) *Arcon*: A distributed execution runtime for Arc programs and 3) Kompact: a component- and actor-based middleware for programming distributed systems that is written entirely in *Rust*.
 
 ![Architecture of CDA](/assets/images/overview.png)
 
