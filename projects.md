@@ -67,23 +67,6 @@ layout: page title: Research Areas and Projects
 <table class="shadow">
 <thead>
   <tr width="55%">
-    <td rowspan="2"><img src="/assets/images/projects/distributed-algs.png" width="90%"></td>
-    <td style="margin: 0 auto">
-        <div class="card">
-          <img src="/assets/images/people/harald.jpg" alt="Avatar" style="width:100%">
-          <div class="container">
-            <h4><b>Harald Ng</b></h4>
-            <p>Lead Developer</p>
-          </div>
-        </div>
-    </td>
-  </tr>
-</thead>
-</table>
-
-<table class="shadow">
-<thead>
-  <tr width="55%">
     <td rowspan="2"><img src="/assets/images/projects/privacy.png" width="90%"></td>
     <td style="margin: 0 auto">
         <div class="card">
