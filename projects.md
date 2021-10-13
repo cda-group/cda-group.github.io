@@ -1,67 +1,99 @@
 ---
-layout: page
-title: Projects
+layout: page title: Research Areas and Projects
 ---
+<style>
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+}
+</style>
+
+<table class="shadow">
+<thead>
+  <tr width="55%">
+    <td rowspan="2"><img src="/assets/images/projects/runtime.png" width="100%"></td>
+    <td style="margin: 0 auto">
+        <div class="card">
+          <img src="/assets/images/people/max.jpg" alt="Avatar" style="width:100%">
+          <div class="container">
+            <h4><b>Max Meldrum</b></h4>
+            <p>Lead Developer</p>
+          </div>
+        </div>
+        <br>
+        <b>Resources</b>
+        <br>
+        <a href="https://github.com/cda-group/arcon">Arcon</a><br>
+        <a href="https://github.com/kompics/kompact">Kompact</a><br>
+    </td>
+  </tr>
+</thead>
+</table>
 
 
-# Arc-script
-
-### Highlights
-
-[Arc-Script](https://github.com/cda-group/arc/arc-script) is a high-level programming language for continuous and deep analytics.
-[Arc-MLIR](https://github.com/cda-group/arc/arc-mlir) is an optimizable intermediate representation which Arc-Script compiles to.
-
-### Why use Arc-Script?
-
-* Arc-Script is **fun** to write code in, easy to learn and is designed for great readability.
-* Arc-Script is **integrated** with IDEs through the language server protocol and web-editors through WebAssembly.
-* Arc-Script is **productive**. Developers can write and reuse Arc-Script modules for different applications with overlapping requirements.
-* Arc-script is **extensible** by allowing integration with external Rust libraries.
-* Arc-Script is **real-time** by being able to express arbitrary streaming computation through asynchronous functions.
-* Arc-Script is **fast** by being compiled to native Rust and optimized by [MLIR](http://mlir.llvm.org) to execute on the Arcon runtime.
-
-### Lead Developer
-
-|:-------------:|:-------------:|
-| <img src="/assets/images/people/klas.jpg" width="150px">| |
-| Klas Segeljakt| |
-
-### Publications
-
-1. Arc: An IR for Batch and Stream Programming @ International Symposium
-on Database Programming Languages (DBPL ’19)
-
-# Arcon
-
-[Arcon](https://github.com/cda-group/arcon) is a distributed execution engine for real-time analytics.
-
-<p align="center">
-  <img width="600" height="300" src="/assets/images/arcon_vision.png">
-</p>
-
-### Highlights
-
-* Developed in Rust for highly efficient code and no garbage collection
-* Arrow-native
-* Hybrid Columnar/Row System
-* Dynamic & Scalable Middleware through Kompact
-* Flexible State Management
+<table class="shadow">
+<thead>
+  <tr width="55%">
+    <td rowspan="2"><img src="/assets/images/projects/language.png" width="90%"></td>
+    <td style="margin: 0 auto">
+        <div class="card">
+          <img src="/assets/images/people/klas.jpg" alt="Avatar" style="width:100%">
+          <div class="container">
+            <h4><b>Klas Segeljakt</b></h4>
+            <p>Lead Developer</p>
+          </div>
+        </div>
+        <br>
+        <b>Resources</b>
+        <br>
+        <a href="https://github.com/cda-group/arc/tree/master/arc-script">Arc-Script</a><br>
+        <a href="https://github.com/cda-group/arc/tree/master/arc-mlir">Arc-MLIR</a><br>
+    </td>
+  </tr>
+</thead>
+</table>
 
 
+<table class="shadow">
+<thead>
+  <tr width="55%">
+    <td rowspan="2"><img src="/assets/images/projects/privacy.png" width="90%"></td>
+    <td style="margin: 0 auto">
+        <div class="card">
+          <img src="/assets/images/people/jonas.jpg" alt="Avatar" style="width:100%">
+          <div class="container">
+            <h4><b>Jonas Spenger</b></h4>
+            <p>Lead Developer</p>
+          </div>
+        </div>
+    </td>
+  </tr>
+</thead>
+</table>
 
-### Lead Developer
-
-|:-------------:|:-------------:|
-| <img src="/assets/images/people/max.jpg" width="150px">| |
-| Max Meldrum | |
-
-
-### Publications
-
-1. Arcon: Continuous and Deep Data Stream Analytics @ BIRTE 2019: Proceedings of Real-Time Business Intelligence and Analytics
-
-
-
-# Kompact
-
-TODO
+<table class="shadow">
+<thead>
+  <tr width="55%">
+    <td rowspan="2"><img src="/assets/images/projects/graphs.png" width="90%"></td>
+    <td style="margin: 0 auto">
+        <div class="card">
+          <img src="/assets/images/people/sonia.jpg" alt="Avatar" style="width:100%">
+          <div class="container">
+            <h4><b>Sonia Horchidan</b></h4>
+            <p>Lead Developer</p>
+          </div>
+        </div>
+    </td>
+  </tr>
+</thead>
+</table>
