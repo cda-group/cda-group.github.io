@@ -56,8 +56,8 @@ layout: page title: Research Areas and Projects
         <br>
         <b>Resources</b>
         <br>
-        <a href="https://github.com/cda-group/arc/arc-script">Arc-Script</a><br>
-        <a href="https://github.com/cda-group/arc/arc-mlir">Arc-MLIR</a><br>
+        <a href="https://github.com/cda-group/arc/tree/master/arc-script">Arc-Script</a><br>
+        <a href="https://github.com/cda-group/arc/tree/master/arc-mlir">Arc-MLIR</a><br>
     </td>
   </tr>
 </thead>
