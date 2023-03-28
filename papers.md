@@ -28,6 +28,8 @@ Posters
 MSc Theses
 ------
 
+* Christopher Gustafson - [Improving Availability of Stateful Serverless Functions in Apache Flink](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-320847)
+
 * Massimo Perini - [Dynamic Graph Embedding on Event Streams with Apache Flink](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-269175)
 
 * Max Meldrum - [Hardware Utilisation Techniques for Data Stream Processing](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-269526)
@@ -43,9 +45,13 @@ MSc Theses
 Conferences, Journals and Workshops
 ------
 
+* J Spenger, P Carbone, P Haller. Portals: An Extension of Dataflow Streaming for Stateful Serverless - Onward! 2022, SPLASH 2022
+
 * S Horchidan, E Kritharakis, B Kalavri, P Carbone - Evaluating model serving strategies over streaming data - DEEM @ SIGMOD 2022
 
 * M Zwolak, Z Abbas, S Horchidan, P Carbone, V Kalavri - GCNSplit: Bounding the State of Streaming Graph Partitioning - aiDM @ SIGMOD 2022
+
+* J Spenger, P Carbone, P Haller. Wip: Pods: Privacy compliant scalable decentralized data services - Poly @ VLDB 2021
 
 * P Carbone, M Fragkoulis, V Kalavri, A Katsifodimos - Beyond Analytics: the Evolution of Stream Processing Systems - ACM SIGMOD 2020 ([draft](papers/SIGMOD-streams.pdf))
 
