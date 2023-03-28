@@ -43,6 +43,10 @@ MSc Theses
 Conferences, Journals and Workshops
 ------
 
+* S Horchidan, E Kritharakis, B Kalavri, P Carbone - Evaluating model serving strategies over streaming data - DEEM @ SIGMOD 2022
+
+* M Zwolak, Z Abbas, S Horchidan, P Carbone, V Kalavri - GCNSplit: Bounding the State of Streaming Graph Partitioning - aiDM @ SIGMOD 2022
+
 * P Carbone, M Fragkoulis, V Kalavri, A Katsifodimos - Beyond Analytics: the Evolution of Stream Processing Systems - ACM SIGMOD 2020 ([draft](papers/SIGMOD-streams.pdf))
 
 * H Boström, U Johansson – Mondrian Conformal Regressors - COPA 2020
