@@ -76,6 +76,9 @@ layout: page title: Research Areas and Projects
             <p>Lead Developer</p>
           </div>
         </div>
+        <b>Resources</b>
+        <br>
+        <a href="https://www.portals-project.org/">Portals Project</a><br>
     </td>
   </tr>
 </thead>
