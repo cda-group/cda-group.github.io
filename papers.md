@@ -18,6 +18,8 @@ PhD Dissertations
 
 * Salman Niazi - [Scaling Distributed Hierarchical File Systems Using NewSQL Databases](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-238605) (2018)
 
+* Jingna Zeng - [Augmenting Transactional Memory with the Future Abstraction](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1472160&dswid=-3133) (2020)
+
 Posters
 ------	
 
@@ -44,6 +46,19 @@ MSc Theses
 
 Conferences, Journals and Workshops
 ------
+
+* Vasiloudis, Theodore, Foteini Beligianni, and Gianmarco De Francisci Morales - [BoostVHT: Boost-
+ing Distributed Streaming Decision Trees](https://dl.acm.org/doi/10.1145/3132847.3132974) Proceedings of the 2017 ACM Conference on Information and Knowledge Management ACM, (2017)
+
+* J Zeng, P Romano, J Barreto, L Rodrigues, S Haridi - [Online Tuning of Parallelism Degree in Parallel Nesting Transactional Memory](https://ieeexplore.ieee.org/document/8425201) IEEE International Parallel and Distributed Processing Symposium (IPDPS 2018)
+
+* M Ismail, M Ronström, S Haridi, J Dowling - [ePipe: Near Real-Time Polyglot Persistence of HopsFS Metadata](https://ieeexplore.ieee.org/document/8752956) 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing 2019
+
+* Kefato, Girdzijauskas et al. [Context-sensitive node representations - Gossip and Attend: Context-Sensitive Graph Representation Learning](https://ojs.aaai.org/index.php/ICWSM/article/download/7305/7159/10535) ICWSM 2020
+
+* Antaris, Girdzijauskas et al. [EGAD: Evolving Graph Representation Learning with Self-Attention and Knowledge Distillation for Live Video Streaming Events](https://ieeexplore.ieee.org/document/9378219) IEEE Big Data 2020
+
+* Lee, Girdzijauskas et al. [Z-Embedding: A spectral representation of event intervals for efficient clustering and classification](https://dl.acm.org/doi/abs/10.1007/978-3-030-67658-2_41) ECML/PKDD 2020
 
 * J Spenger, P Carbone, P Haller. Portals: An Extension of Dataflow Streaming for Stateful Serverless - Onward! 2022, SPLASH 2022
 
@@ -96,9 +111,11 @@ Conferences, Journals and Workshops
 Technical Reports and Surveys
 ------
 
-S Haridi, L Kroll, P Carbone - Lecture Notes on Leader-based Sequence Paxos -- An Understandable Sequence Consensus Algorithm [arXiv preprint](https://arxiv.org/abs/2008.13456) (2020)
+* Paris Carbone, Asterios Katsifodimos, Seif Haridi - [Stream Window Aggregation Semantics and Optimization](https://link.springer.com/referenceworkentry/10.1007/978-3-319-63962-8_154-1) Encyclopedia of Big Data Technologies (2019)
 
-M Fragkoulis, P Carbone, V Kalavri, A Katsifodimos – A Survey on the Evolution of Stream Processing Systems, [arXiv preprint](https://arxiv.org/pdf/2008.00842.pdf) (2020)
+* S Haridi, L Kroll, P Carbone - Lecture Notes on Leader-based Sequence Paxos -- An Understandable Sequence Consensus Algorithm [arXiv preprint](https://arxiv.org/abs/2008.13456) (2020)
+
+* M Fragkoulis, P Carbone, V Kalavri, A Katsifodimos – A Survey on the Evolution of Stream Processing Systems, [arXiv preprint](https://arxiv.org/pdf/2008.00842.pdf) (2020)
 
 Talks and Events
 ------
