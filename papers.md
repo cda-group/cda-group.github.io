@@ -30,6 +30,10 @@ Posters
 MSc Theses
 ------
 
+* Ashmitha Ambastha - [The State of Stateful Serverless Systems](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324028)
+
+* Luca Staboli - [Trusted Execution Environment deployment through cloud Virtualization: Aproject on scalable deployment of virtual machines](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-321669)
+
 * Christopher Gustafson - [Improving Availability of Stateful Serverless Functions in Apache Flink](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-320847)
 
 * Massimo Perini - [Dynamic Graph Embedding on Event Streams with Apache Flink](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-269175)
@@ -46,6 +50,8 @@ MSc Theses
 
 Conferences, Journals and Workshops
 ------
+
+* J Spenger, C Huang, P Haller, P Carbone - Portals: A Showcase of Multi-Dataflow Stateful Serverless - PVLDB 2023.
 
 * Vasiloudis, Theodore, Foteini Beligianni, and Gianmarco De Francisci Morales - [BoostVHT: Boost-
 ing Distributed Streaming Decision Trees](https://dl.acm.org/doi/10.1145/3132847.3132974) Proceedings of the 2017 ACM Conference on Information and Knowledge Management ACM, (2017)
@@ -121,6 +127,8 @@ Technical Reports and Surveys
 
 Talks and Events
 ------
+
+* Jonas Spenger - [Crossing the Boundaries of Stateful Streaming and Actors using Serverless Portals](https://scaladays.org/madrid-2023/crossing-the-boundaries-of-stateful-streaming-and-actors-using-serverless-portals) - Scala Days Madrid 2023
 
 * Sruthi Kumar & Hasseb Asif – [FlinkNDB: Skyrocketing Stateful Capabilities of Apache Flink](https://www.flink-forward.org/global-2020/conference-program#flinkndb---skyrocketing-stateful-capabilities-of-apache-flink), Flink Forward Global Event (Oct. 2020)
 
