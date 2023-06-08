@@ -15,8 +15,8 @@ Researchers
 --------
 
 |:-------------:|:-------------:|:-------------:|
-| <img src="/assets/images/people/frej.jpg" width="200px"> | <img src="/assets/images/people/adam.jpg" width="200px"> | 
-| Frej Drejhammar  | Adam Hasselberg |
+| <img src="/assets/images/people/frej.jpg" width="200px"> | 
+| Frej Drejhammar |
 
 PhD Students
 --------
@@ -26,8 +26,8 @@ PhD Students
 | Max Meldrum | Klas Segeljakt | Harald Ng |
 
 :-------------:|:-------------:|
-| <img src="/assets/images/people/jonas.jpg" width="200px">| <img src="/assets/images/people/sonia.jpg" width="200px"> |
-| Jonas Spenger | Sonia Horchidan |
+| <img src="/assets/images/people/jonas.jpg" width="200px">| <img src="/assets/images/people/sonia.jpg" width="200px"> | <img src="/assets/images/people/adam.jpg" width="200px"> |
+| Jonas Spenger | Sonia Horchidan | Adam Hasselberg |
 
 MSc Students / Research Engineers
 --------
