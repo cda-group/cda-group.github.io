@@ -60,9 +60,11 @@ ing Distributed Streaming Decision Trees](https://dl.acm.org/doi/10.1145/3132847
 
 * Lee, Girdzijauskas et al. [Z-Embedding: A spectral representation of event intervals for efficient clustering and classification](https://dl.acm.org/doi/abs/10.1007/978-3-030-67658-2_41) ECML/PKDD 2020
 
+* S Horchidan, P Carbone - ORB: Empowering Graph Queries through Inference - DMKG @ ESWC 2023.
+
 * J Spenger, P Carbone, P Haller. Portals: An Extension of Dataflow Streaming for Stateful Serverless - Onward! 2022, SPLASH 2022
 
-* S Horchidan, E Kritharakis, B Kalavri, P Carbone - Evaluating model serving strategies over streaming data - DEEM @ SIGMOD 2022
+* S Horchidan, E Kritharakis, B Kalavri, P Carbone - Evaluating model serving strategies over streaming data - DEEM @ SIGMOD 2022 (**Best Paper Award**) 
 
 * M Zwolak, Z Abbas, S Horchidan, P Carbone, V Kalavri - GCNSplit: Bounding the State of Streaming Graph Partitioning - aiDM @ SIGMOD 2022
 
