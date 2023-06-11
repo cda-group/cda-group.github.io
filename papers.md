@@ -51,6 +51,11 @@ MSc Theses
 Conferences, Journals and Workshops
 ------
 
+
+* H Ng, S Haridi, P Carbone. [Omni-Paxos: Breaking the Barriers of Partial Connectivity](https://dl.acm.org/doi/pdf/10.1145/3552326.3587441) - EuroSys'23
+
+* H Ng, K Wu, P Carbone. [UniCache: Efficient Log Replication through Learning Workload Patterns](https://openproceedings.org/2023/conf/edbt/3-paper-117.pdf) - EDBT2023
+
 * J Spenger, C Huang, P Haller, P Carbone - Portals: A Showcase of Multi-Dataflow Stateful Serverless - PVLDB 2023.
 
 * Vasiloudis, Theodore, Foteini Beligianni, and Gianmarco De Francisci Morales - [BoostVHT: Boost-
