@@ -30,11 +30,16 @@ Posters
 MSc Theses
 ------
 
+
 * Ashmitha Ambastha - [The State of Stateful Serverless Systems](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324028)
 
 * Luca Staboli - [Trusted Execution Environment deployment through cloud Virtualization: Aproject on scalable deployment of virtual machines](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-321669)
 
 * Christopher Gustafson - [Improving Availability of Stateful Serverless Functions in Apache Flink](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-320847)
+
+* Ao Song - [Tiered Storage Architecture for Stream Processing Systems](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-321936)
+
+* Mikolaj Robakowski - [Comparison of State Backends for Modern Stream Processing System](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-290597)
 
 * Massimo Perini - [Dynamic Graph Embedding on Event Streams with Apache Flink](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-269175)
 
@@ -129,6 +134,8 @@ Talks and Events
 ------
 
 * Jonas Spenger - [Crossing the Boundaries of Stateful Streaming and Actors using Serverless Portals](https://scaladays.org/madrid-2023/crossing-the-boundaries-of-stateful-streaming-and-actors-using-serverless-portals) - Scala Days Madrid 2023
+
+* Max Meldrum - [Uncovering Arcon: A state-first Rust streaming analytics runtime](https://archive.fosdem.org/2022/schedule/event/arcon_rust_streaming/) - FOSDEM 22
 
 * Sruthi Kumar & Hasseb Asif – [FlinkNDB: Skyrocketing Stateful Capabilities of Apache Flink](https://www.flink-forward.org/global-2020/conference-program#flinkndb---skyrocketing-stateful-capabilities-of-apache-flink), Flink Forward Global Event (Oct. 2020)
 
