@@ -5,6 +5,7 @@ title: Research
 
 Project Reports
 ------
+* [Final Project Report](papers/CDA-FinalReport-Public.pdf) (2023) 
 * [Midterm Project Report](papers/CDA-Midterm-Final.pdf) (2020) 
 
 PhD Dissertations
